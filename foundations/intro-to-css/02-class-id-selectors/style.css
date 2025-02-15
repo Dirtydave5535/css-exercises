@@ -1,0 +1,20 @@
+ p:nth-child(odd),p ~ p{
+    
+   background-color: rgb(190, 35, 113);
+   font-style: italic;
+
+}
+#color_b{color: blue;
+font-size: 36px;
+
+}
+.line3{
+    font-size: 28px;
+}
+
+
+#el5{
+background-color: rgb(83, 240, 153);
+font-size: 24px;
+font-weight: bold;
+}
