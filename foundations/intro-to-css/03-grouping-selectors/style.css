@@ -1,0 +1,12 @@
+.font,
+.font2{
+    font-size: 28px;
+    font-family: 'Times New Roman', "Helvetica", sans-serif;
+}
+#colb{
+    color: rgb(255, 255, 255);
+    background-color: hsl(0, 0%, 0%);
+}
+#coly{
+    background-color: rgb(255, 251, 0);
+}
